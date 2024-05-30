@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(31, 180, 230);
+    height: 100px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+
+}
+header a{
+    
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+
+}
+
+header a:hover{
+    font-size: 20px;
+    border-bottom: 1px solid black;
+}
+
+main{
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+main .content{
+    background-color: aqua;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    padding: 10px;
+}
+
+main .content h1{
+margin-bottom: 3px;
+color: brown;
+}
+
+

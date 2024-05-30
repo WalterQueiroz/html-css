@@ -1,0 +1,32 @@
+@charset "UT-8";
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    
+    
+}
+nav{
+background-image: linear-gradient(to bottom,#31B06A, #299457, #1F6D41  );  
+padding-bottom: 30px;
+  
+}
+#titulo{
+    text-align: center;
+    color: white;
+    text-shadow: 1px, 2px, 2px, #292222;
+
+}
+#paragrafo{
+    text-align: center;
+    color: white;
+}
+#menu-h li{
+display: inline;
+padding: 20px;
+
+}
+#menu-h{
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+}

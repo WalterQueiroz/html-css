@@ -1,0 +1,33 @@
+*{
+    margin: auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#menu-h{
+    max-width: 800px;
+}
+#menu-h{
+    background-color: rgb(37, 37, 39);
+}
+#menu-h {
+    list-style: none;
+    padding: 0px;
+    background-color: rgb(37, 37, 39);
+}
+
+#menu-h li{
+    display: inline-block;
+}
+#menu-h li a{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px;
+    
+}
+
+#menu-h li a:hover{
+    background-color: rgb(10, 10, 255);
+}
+
